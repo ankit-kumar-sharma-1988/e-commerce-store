@@ -1,0 +1,67 @@
+
+.CartdetailHeading{
+    margin-left: 450px;
+    color: red;
+}
+
+.cartDetailFirstDiv{
+    background-color: white;
+   
+}
+.cartDetailSecondDiv{
+    width: 900px;
+    background-color: black;
+    display: flex;
+    margin-left: 150px;
+    /* margin-top: 30px; */
+   
+}
+.titleHeading{
+    color: lightgreen;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 5px;
+
+
+}
+.priceHeading{
+    color: blue;
+    margin-left: 120px;
+    font-size: 35px;
+}
+.ProductHeading{
+    color:darkslategray;
+    font-weight: bold;
+    font-size: 22px;
+    display: block;
+    min-width: 180px;
+}
+.ProductSerialno{
+    color: red;
+    margin-left: 120px;
+    font-size: 15px;
+    margin-left: 45px;
+}
+.tab{
+    margin-left:44px;
+    height: 250px;
+    width: 700px;
+}
+.image{
+    background-color: black;
+    margin-left: 100px;
+}
+.mainDiv{
+    margin-top: 45px;
+}
+.btnDiv{
+    margin-left: 550px;
+    /* font-weight: bold; */
+}
+.ShowMessage{
+    color: green;
+    font-size: 25px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+

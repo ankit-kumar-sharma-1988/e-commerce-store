@@ -1,0 +1,41 @@
+.CartAddItemMainDiv{
+    background-color: lightgoldenrodyellow;
+}
+.Product{
+    color:darkblue;
+}
+.price{
+    color:darkblue;
+}
+.deleteButton{
+    font-size: 25px;
+}
+.footers{
+    width: 30%;  
+}
+.inputs{
+    width: 25px;
+    background-color: darkblue;
+    color: white;
+}
+.plus{
+    margin-left: 150px;
+}
+.fa-trash{
+    color: red;
+    font-size: 22px;
+    margin-left: 25px;
+}
+.Totalprice{
+    color:red;
+    font-weight: bold;
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-left: 1100px;
+    padding-top: 6px;
+    
+}
+.total{
+    height: 40px;
+    background-color: black;
+}

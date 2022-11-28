@@ -1,0 +1,26 @@
+.headerHeading1{
+    color: yellow;
+    font-size: 24px;
+    font-weight: bold;
+    margin-right: 20px;
+}
+.headerHeading2{
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+
+}
+.navbar{
+    background-color: darkblue;
+}
+.fa-sign-out{
+    margin-left:35px;
+    color:whitesmoke;
+    font-size: 29px;
+}
+.logoutbtn{
+    margin-left: 5px;
+    font-size: 14px;
+    font-weight: bold;
+    /* color:; */
+}

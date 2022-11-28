@@ -1,0 +1,56 @@
+.firstDiv{
+    background-color:darkblue;
+    height: 450px;
+    /* height: 100px;  */
+ 
+ }
+ .secondDiv{
+    background-color: lightyellow;
+    height: 250px;
+  width: 300px;
+  margin-left: 450px;
+  }
+  .heading{
+    color: yellow;
+    padding-top: 25px;
+    font-size: 40px;
+    margin-left: 520px;
+  
+  }
+  .inputfirst{
+    margin-top: 30px;
+    margin-left: 25px;
+  }
+  .inputSecond{
+margin-top: 5px;
+margin-left: 25px;
+
+  }
+  .subheading{
+  padding-top: 25px;
+    font-size: 16px;
+    margin-left: 80px;
+    color:darkblue;
+  }
+  .Button{
+    width: 250px;
+    margin-top: 10px;
+    margin-left: 25px;
+  }
+  .bottomHeading{
+    font-size: 12px;
+    margin-top: 20px;
+    color: white;
+    margin-left: 30px;
+  }
+  .footerText{
+    font-size: 15px;
+    margin-top: 50px;
+    margin-left: 375px;
+    color: tomato;
+  }
+  .bottom{
+    font-size:10px;
+  }
+  
+ 

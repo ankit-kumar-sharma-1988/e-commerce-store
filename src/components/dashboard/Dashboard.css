@@ -1,0 +1,20 @@
+.card{
+    background-color: lightgoldenrodyellow;
+    /* display: flex; */
+    margin-top: 25px;
+    margin-left:5px;
+}
+.titles{
+    color:blue;
+}
+.Price{
+    color: red;
+}
+.text{
+    color: darkorange;
+    font-weight: bold;
+    font-size: 16px;
+}
+.btnAddToCart{
+margin-left: 65px;
+}
